@@ -44,7 +44,7 @@
 
       <div class="task-elem _flex-center">
         <div class="task-number">3</div>
-        <div class="task-title">Lorem ipsum dolor</div>
+        <div class="task-title">Git add</div>
         <div class="task-status">Новая</div>
         <div class="task-controls _flex-center">
           <button class="btn f-el">Редактировать</button>
